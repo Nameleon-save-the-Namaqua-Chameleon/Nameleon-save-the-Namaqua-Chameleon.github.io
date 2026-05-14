@@ -7,7 +7,7 @@
 
     <div class="flex">
         <h1 class="content-heading">Mission statement</h1>
-        <img src="static/images/space-shuttle-svgrepo-com.svg" alt="..." width="40px">
+        <img src="/images/space-shuttle-svgrepo-com.svg" alt="..." width="40px">
     </div>
 
     <blockquote class="content-blockquote">
