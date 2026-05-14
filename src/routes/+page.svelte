@@ -129,7 +129,7 @@
     {/if}
 
     <div class="grow flex w-full whitespace-nowrap justify-center py-2 bg-primary-900/80">
-        <h1 class="text-secondary-400 sm:text-4xl max-sm:text-xl xl:text-5xl">&#8222; Nameleon Wildlife Foundation Namibia &#8221;</h1>
+        <h1 class="text-secondary-400 sm:text-4xl max-sm:text-xl xl:text-5xl">&#8222; Nameleon Foundation Namibia &#8221;</h1>
     </div>
 
     <!-- <div class="sm:pl-[25%] sm:pr-[30%] max-sm:pr-[5%] max-sm:pl-[5%] mt-12 w-fulll"> -->
