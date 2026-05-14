@@ -138,7 +138,7 @@
 
         <div class="flex">
             <h1 class="content-heading">Background of the organisation</h1>
-            <img src="static/images/background-svgrepo-com.svg" alt="..." width="40px">
+            <img src="/images/background-svgrepo-com.svg" alt="..." width="40px">
         </div>
 
         <blockquote class="content-blockquote">
