@@ -12,6 +12,7 @@
     import { Drawer, drawerStore } from '@skeletonlabs/skeleton';
 	import type { DrawerSettings } from '@skeletonlabs/skeleton';
 	import Navbar from '$lib/navbar.svelte';
+	import Footer from '$lib/footer.svelte';
 	import {page} from '$app/stores';
 
 	let innerWidth = 0;
@@ -134,6 +135,11 @@
 	<!-- CONTENT -->
 	<slot />
 	<!-- ---- / ---- -->
+
+	<!-- FOOTER -->
+	<svelte:fragment slot="footer">
+		<Footer />
+	</svelte:fragment>
 
 	<!-- PAGEFOOTER -->
 	<!-- <svelte:fragment slot="pageFooter">
