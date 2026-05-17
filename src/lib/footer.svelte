@@ -1,5 +1,5 @@
 <script lang="ts">
-	const user = 'inameleonwildlifeorg128';
+	const user = 'nameleonwildlifeorg128';
 	const domain = 'gmail.com';
 </script>
 
