@@ -7,7 +7,7 @@
 	<div class="container mx-auto flex flex-col md:flex-row justify-between items-center gap-4 hover">
 		<div class="text-center md:text-left">
 			<p class="font-bold text-lg">Nameleon Foundation</p>
-            <p class="text-sm opacity-70">Conservation through Education</p>
+            <p class="text-sm opacity-70">Preservation through Education</p>
 		</div>
 		<div class="flex flex-col md:flex-row gap-4 md:gap-8 text-center italic">
 			<a
