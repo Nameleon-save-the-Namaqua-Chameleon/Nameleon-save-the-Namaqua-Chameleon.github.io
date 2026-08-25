@@ -8,7 +8,7 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04 # Set platform for runner
+    runs-on: ubuntu-24.04 # Set platform for runner
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
@@ -17,7 +17,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v2
         with:
-          node-version: '20'
+          node-version: '22'
 
       - name: Cache pnpm modules
         uses: actions/cache@v4
