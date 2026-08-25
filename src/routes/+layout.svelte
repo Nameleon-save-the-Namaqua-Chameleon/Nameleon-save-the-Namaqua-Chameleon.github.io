@@ -24,6 +24,7 @@
         {'label': 'Mission Statement', 'path': '/mission'},
         {'label': 'Vision Statement', 'path': '/vision'},
         {'label': 'Values Statement', 'path': '/values'},
+        {'label': 'Programms', 'path': '/programms'},
     ];
 
 	const drawerSettings: DrawerSettings = {
